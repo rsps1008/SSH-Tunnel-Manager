@@ -75,6 +75,12 @@ If password-based authentication is required, ensure that sshpass is installed (
 - This project is licensed under the [CC 4.0 BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) license. Please retain this notice when referencing or modifying the project.
 
 
+
+
+
+
+
+
 # SSH 通道管理 GUI
 
 本專案是一個使用 Python 與 Tkinter 製作的 SSH 隧道管理工具，可用來管理多組 SSH 通道設定，並透過圖形介面操作各通道的啟用、停用與狀態監控。
